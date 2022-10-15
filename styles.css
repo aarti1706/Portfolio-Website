@@ -1,0 +1,269 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+body {
+    background-color: #EEEEEE;
+    
+}
+
+.header-link ul {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    list-style-type: none;
+    padding: 0;
+}
+#nav-items {
+    display: flex;
+    align-items: center;
+    width: 100%;
+    justify-content: space-between;
+
+}
+.header-link ul li{
+    margin-right: 56px;
+}
+.header-button i{
+    padding-right: 26px;
+}
+.navbar {
+    padding-left: 50px;
+    padding-right: 50px;
+    background-color: white;
+}
+.header-button {
+    display: flex;
+    align-items: center;
+
+}
+.resume-button {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 12px;
+    padding-right: 12px;
+    border-radius: 10px;
+    background-color: white;
+    border-color: lightgray;
+}
+.portfolio-name{
+    background-clip: text;
+    color: black;
+    font-size: 35px;
+}
+
+.portfolio-name span{
+    color: blue;
+}
+.instagram-icon {
+    display: flex;
+    list-style-type: none;
+    justify-content: space-between;
+    width: 150px;
+    padding: 0;
+}
+
+.profile-sec {
+    display: flex;
+    justify-content: space-between;
+    padding-left: 50px;
+    padding-right: 100px;
+    background-color: white;
+    align-items: center;
+    padding-bottom: 100px;
+
+}
+.profile-sec img {
+    width: 270px;
+    padding-top: 100px;
+
+}
+.head-name {
+    background-clip:text ;
+    color: grey;
+    letter-spacing: 5px;
+}
+#myservices {
+    text-align: center;
+    background-clip: text;
+    color: grey;
+    letter-spacing: 5px;
+}
+#selfspecialized {
+    text-align: center;
+}
+.card-rap {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    box-shadow: white;
+    
+}
+.card-button {
+    background-color: white;
+    text-align: center;
+    padding: 20px;
+}
+.services-section {
+    padding: 50px;
+}
+.arrow-side  {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 50px;
+}
+.arrow-work {
+    background-color: white;
+
+}
+.work-section {
+    background-color: white;
+}
+.work-path {
+    letter-spacing: 5px;
+}
+.website-section {
+    display: flex;
+    align-items: center;
+    justify-content: space-between; 
+    background-color: white;
+    padding: 50px;
+}
+.website-portfolio {
+    width: 260px;
+}
+.portfolio-image {
+    width: 100%;
+}
+.carrier-section {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.carrier-line {
+    letter-spacing: 5px;
+}
+.apple-path {
+    word-spacing: 83px;
+    background-color: white;
+    padding: 15px;
+    color: blue;
+    
+}
+#articlesblog {
+    text-align: center;
+    letter-spacing: 5px;
+    padding: 50px;
+}
+#mypersonal {
+    text-align: center;
+}
+.dolor-portfolio {
+ display: flex;
+ align-items: center;
+ justify-content: space-between;
+ background-color: white;
+ box-shadow: white;
+ padding: 50px;
+}
+.amet-figma {
+    width: 100%;
+}
+.figma-portfolio {
+    background-color: white;
+}
+.interface-img {
+    width: 70px;
+    margin-left: 60px;
+    margin-right: 60px;
+}
+.client-section {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.testi-clients {
+   padding: 50px;
+}
+.client-path {
+    letter-spacing: 5px;
+}
+.image-button {
+    background-color: white;
+    padding: 20px;
+
+}
+.degree-part {
+    color: grey;
+}
+.learn-path {
+    letter-spacing: 5px;
+}
+.horizontal-parent {
+    width: 480px;
+    height: 5px;
+    background-color: white;
+}
+.horizontal-bar {
+    width: 290px;
+    height: 5px;
+    background-color: blue;
+
+}   
+.tail-parent {
+    width: 480px;
+    height: 4px;
+    background-color: white;
+}
+
+.wind-bar {
+    width: 225px;
+    height: 4px;
+    background-color:blue;
+}
+.script-parent {
+    width: 480px;
+    height: 5px;
+    background-color: white;
+
+}
+.java-bar {
+    width: 235px;
+    height: 5px;
+    background-color:blue;
+}
+.education-path {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: white; 
+    padding: 20px;
+}
+.field-new {
+    padding-top: 85px;
+}
+.container-path {
+    word-spacing: 83px;
+    background-color: white;
+    padding: 10px;
+    color: black;
+}
+.font-path {
+    word-spacing: 83px;
+    background-color: white;
+    padding: 90px;
+    color: black;
+}
+.menu-path {
+    background-color: blue;
+    padding: 10px;
+    color: white
+}
+.holder-name {
+    list-style-type: none;
+    display: flex;
+    justify-content: space-between;
+}
+
